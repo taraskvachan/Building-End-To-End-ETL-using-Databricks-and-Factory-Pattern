@@ -1,4 +1,4 @@
-# Building End-To-End ETL using Databricks and Factory-Pattern
+# Building End-To-End ETL using Databricks and Factory Pattern
 
 ## Project Description
 
